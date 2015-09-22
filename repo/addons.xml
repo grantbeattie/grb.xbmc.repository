@@ -15,7 +15,7 @@
   </extension>
 </addon>
 
-<addon id="repository.grb.xbmc" name="grb's XBMC Addon Repository" provider-name="grb" version="1.01">
+<addon id="repository.grb.xbmc" name="grb's XBMC Addons" provider-name="grb" version="1.01">
   <extension point="xbmc.addon.repository" name="grb's XBMC Addon Repository">
     <info compressed="false">https://raw.github.com/grantbeattie/grb.xbmc.repository/master/repo/addons.xml</info>
     <checksum>https://raw.github.com/grantbeattie/grb.xbmc.repository/master/repo/addons.xml.md5</checksum>
