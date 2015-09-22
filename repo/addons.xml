@@ -12,10 +12,11 @@
     <description>Channel Nine (Australia) catch-up TV.</description>
     <provides>video</provides>
     <platform>all</platform>
+    <nofanart>true</nofanart>
   </extension>
 </addon>
 
-<addon id="repository.grb.xbmc" name="grb's XBMC Addons" provider-name="grb" version="1.01">
+<addon id="repository.grb.xbmc" name="grb's XBMC Addons" provider-name="grb" version="1.02">
   <extension point="xbmc.addon.repository" name="grb's XBMC Addon Repository">
     <info compressed="false">https://raw.github.com/grantbeattie/grb.xbmc.repository/master/repo/addons.xml</info>
     <checksum>https://raw.github.com/grantbeattie/grb.xbmc.repository/master/repo/addons.xml.md5</checksum>
@@ -25,6 +26,7 @@
     <summary>Install grb's Addons</summary>
     <description>Audio and video addons by grb</description>
     <platform>all</platform>
+    <nofanart>true</nofanart>
   </extension>
 </addon>
 </addons>
