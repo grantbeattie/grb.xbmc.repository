@@ -21,6 +21,10 @@
     <checksum>https://raw.github.com/grantbeattie/grb.xbmc.repository/master/repo/addons.xml.md5</checksum>
     <datadir zip="true">https://raw.githubusercontent.com/grantbeattie/grb.xbmc.repository/master/repo/</datadir>
   </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Install grb's Addons</summary>
+    <description>Audio and video addons by grb</description>
+    <platform>all</platform>
+  </extension>
 </addon>
-
 </addons>
